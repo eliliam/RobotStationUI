@@ -1,0 +1,21 @@
+{
+  "streams": {
+    "camera_url": "http://172.17.147.229:9090/",
+    "aspect_ratio": false,
+    "connected_image": "connected",
+    "disconnected_image": "disconnected",
+    "robot_ip": "roborio-5431-frc.local",
+    "table_name": "copernicus",
+    "gear_image": "gear"
+  },
+
+  "window": {
+    "width": 1920,
+    "height": 1080,
+    "x_location": 0,
+    "y_location": 0,
+    "icon_name": "logo",
+    "resizable": true,
+    "refresh_millis": 80
+  }
+}
